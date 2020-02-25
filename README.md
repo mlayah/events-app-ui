@@ -1,4 +1,4 @@
-# event_ap_ui
+# Events App UI
 
 A new Flutter project.
 
